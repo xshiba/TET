@@ -1,2 +1,0 @@
-local a = request({Url = "http://147.50.240.231:500/creamcute",Method = "Get"})
-table.foreach(a, print)
